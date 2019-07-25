@@ -1,4 +1,5 @@
-#Overview
+# Overview
+
 The idea is to model the dynamics of interaction between people. 
 Key things to remember are: According to facebook as referenced in the notebook, most people are interconnected by a degree 3.
 I thus simplified the models utilized by ensuring their connectivity is of degree 3. The wights of connection have been dynamized in the code as per the specifications stated in their description.
